@@ -19,7 +19,7 @@ html {
 
 body {
   margin-bottom: 60px;
-  color: #f5f5f5;
+  color: #050505;
 }
 .bd-placeholder-img {
   font-size: 1.125rem;
@@ -81,7 +81,6 @@ body {
   align-items: center;
   padding-bottom: 40px;
   background-color: #f5f5f5;
-  background-image: url("../images/gctu.jpg");
 }
 
 .form-signin {
@@ -103,4 +102,9 @@ body {
   margin-bottom: 10px;
   border-top-left-radius: 0;
   border-top-right-radius: 0;
+}
+
+.form-bg {
+  background-image: url("../images/gctu.jpg");
+  color: #f5f5f5;
 }
